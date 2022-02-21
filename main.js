@@ -22,7 +22,7 @@ if (userName === "") {
 }
 
 
-// A seithc statement evaluates an expression to a case
+// A switch statement evaluates an expression to a case
 // then executes statements in the case. 
 // note** All cases following the chosen
 // case will execute if there is no break from
